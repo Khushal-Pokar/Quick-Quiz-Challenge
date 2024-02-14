@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Quiz.css';
+import '../styles/Quiz.css';
 import { NavLink } from 'react-router-dom';
 
 const Quiz = ({quiz}) => {

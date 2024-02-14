@@ -1,5 +1,5 @@
 import React from 'react';
-import './Categories.css';
+import '../styles/Categories.css';
 import { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 import { GridLoader } from 'react-spinners';

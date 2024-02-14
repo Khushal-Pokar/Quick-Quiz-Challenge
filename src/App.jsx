@@ -1,8 +1,8 @@
 import './App.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Categories from './components/Categories/Categories'
-import Difficulty from './components/Difficulty/Difficulty'
-import Quiz from './components/Quiz/Quiz'
+import Categories from './components/Categories'
+import Difficulty from './components/Difficulty'
+import Quiz from './components/Quiz'
 
 function App() {
 

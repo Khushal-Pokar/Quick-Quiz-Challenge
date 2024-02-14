@@ -1,7 +1,7 @@
 import React, { createContext, useEffect, useState } from "react";
-import "./Difficulty.css";
+import "../styles/Difficulty.css";
 import { NavLink, useParams } from "react-router-dom";
-import Quiz from "../Quiz/Quiz";
+import Quiz from "./Quiz";
 import { GridLoader } from "react-spinners";
 
 
