@@ -30,7 +30,7 @@ const Categories = () => {
     { isLoading ? (
       <div className="loader-container">
         <GridLoader color="#D8C7FF" size={30} />
-        <h1>Fetching Categories . . .</h1>
+        <h2>Fetching Categories . . .</h2>
       </div>
     ) : (
       <div className="category-container">
